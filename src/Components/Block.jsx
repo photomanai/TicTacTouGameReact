@@ -8,7 +8,7 @@ function Block({ Id, child, checkContent }) {
   return (
     <div onClick={retrunId} className="blocks">
       {child}
-      {Id}
+      {/* {Id} */}
     </div>
   );
 }

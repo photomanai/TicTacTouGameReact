@@ -1,0 +1,11 @@
+.blocks {
+  width: 30%;
+  font-size: 64px;
+  line-height: 8rem;
+  text-align: center;
+  height: 8rem;
+  color: white;
+  border: 1px solid white;
+  margin: 7px 7px;
+  cursor: pointer;
+}

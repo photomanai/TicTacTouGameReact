@@ -4,14 +4,15 @@ This is a simple implementation of the classic **Tic Tac Toe** game built using 
 
 ## 📋 Table of Contents
 
-- [Getting Started](#getting-started)
+<!-- - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Running the Development Server](#running-the-development-server)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [How to Play](#how-to-play)
-- [Contributing](#contributing)
-- [License](#license)
+- [Contributing](#contributing) -->
+
+- [License](LICENSE)
 
 ## 🚀 Getting Started
 
